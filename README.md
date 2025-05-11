@@ -1,5 +1,5 @@
 # DocuMentor
-**Overview**
+
 This project implements a custom AI chatbot designed to answer queries related to Islamic law. It utilizes a Retrieval Augmented Generation (RAG) approach to provide accurate and contextually relevant responses based on a document you provide.  The chatbot processes the document as follows:
 
 **Load PDF**: The document containing Islamic legal texts is loaded.
